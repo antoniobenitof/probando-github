@@ -13,3 +13,4 @@ Este archivo sirve para practicar el flujo de trabajo de **Git** y **GitHub**.
 
 🧠 _Practicando desde Mac Studio con VSCode y Git._
 🚀 Esta línea fue agregada para probar el panel de Source Control.
+🧩 Línea agregada para probar el panel de Source Control.
